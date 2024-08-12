@@ -1,2 +1,2 @@
-# Imagerie-M-dicale
+# Imagerie-Medicale
 Reconnaissance des différentes régions du cerveau
